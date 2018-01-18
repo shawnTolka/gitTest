@@ -12,6 +12,7 @@ class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Tom")
 
         // Do any additional setup after loading the view.
     }
@@ -21,6 +22,10 @@ class ViewController2: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    func TomFunc (){
+        
+        
+    }
 
     /*
     // MARK: - Navigation

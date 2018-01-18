@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print()
+        print()
+        print()
+        print()
         // Do any additional setup after loading the view, typically from a nib.
         //This is Tom add this line
         //hi im mike how are you
@@ -26,11 +30,17 @@ class ViewController: UIViewController {
     func TomSpeaking(){
         //Tom say something
         print()
+        print()
+        print()
+        print()
         //Mike say second
         //Test Number two
 
     }
 
+    func TomSecondSpeaking(){
+        
+    }
 
 }
 
