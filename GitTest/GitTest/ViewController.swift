@@ -40,7 +40,12 @@ class ViewController: UIViewController {
     }
 
     func TomSecondSpeaking(){
-        
+        //Tom fixed Bug
+        //Tom fixed Bug
+        //Tom fixed Bug
+        //Tom fixed Bug
+        //Tom fixed Bug
+
     }
 
 }
