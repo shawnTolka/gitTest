@@ -26,6 +26,9 @@ class ViewController: UIViewController {
     func TomSpeaking(){
         //Tom say something
         print()
+        //Mike say second
+        //Test Number two
+
     }
 
 
