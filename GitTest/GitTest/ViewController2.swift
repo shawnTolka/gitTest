@@ -13,7 +13,7 @@ class ViewController2: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Tom")
-        failed
+        print("bug fixed")
         
         //mike
         // Do any additional setup after loading the view.
